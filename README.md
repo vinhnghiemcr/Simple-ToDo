@@ -21,7 +21,6 @@ The following **optional** features are implemented:
 
 
 ## Notes
-Crea
 There were so many challeges as I encoutered for my first Android app. Creating the itemAdapter is the most challege to me. 
 Using interface to pass the data between itemsAdapter and the MainActivity is something interesting thing to learn.
 
